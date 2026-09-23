@@ -1,0 +1,6 @@
+{
+  "name": "DOS Audio MZ Studio",
+  "description": "Convert audio to 8-bit PCM and synthesize authentic MS-DOS MZ executables with real-mode x86 audio players, interactive hex header inspector, and retro sound hardware emulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
